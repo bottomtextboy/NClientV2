@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="setting_on_ignore_tags">Other tags won\'t be queried when a tag is selected from the gallery menu (except language)</string>
+    <string name="setting_on_ignore_tags">لن يَتمَّ الاستعلام عن باقي الوسوم (باستثناء اللغة) عند اختيار وَسم معين عند قائمة الأعمال</string>
     <string name="setting_off_ignore_tags">Other tags will be queried when a tag is selected from the gallery menu</string>
     <string name="setting_on_high_res">Best resolution images will be loaded (more data)</string>
     <string name="setting_off_high_res">Thumbnails images will be loaded (less data)</string>
